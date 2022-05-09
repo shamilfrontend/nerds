@@ -1,2 +1,3 @@
 # nerds
-верстка сайта Nerds (наставничество на html academy)
+
+Demo - https://shamilfrontend.github.io/nerds/
